@@ -1,3 +1,6 @@
 segunda tarea
 
 realize los cambios a mi tarea 
+
+
+tercer arreglo para el 3er commit de mi rama franco
